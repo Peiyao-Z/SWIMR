@@ -1,0 +1,20 @@
+Package: SWIMR
+Type: Package
+Title: Enhancing cell type deconvolution in spatial transcriptomics through incorporating multiple reference panels 
+Version: 0.1.0
+Authors@R: c(
+    person("Peiyao", "Zhao", email = "pyzhao@umich.edu", role = c("aut", "cre")),
+    person("Ying", "Ma", email = "ying_ma@brown.edu", role = c("aut")),
+    person("Xiang", "Zhou", email = "xiang.zhou.xz735@yale.edu", role = c("aut"))
+  )
+Description: The SWIMR (Spatially Weighted Integration for Multi-Reference deconvolution) package is a statistical framework designed to accurately determine cell type composition in spatial transcriptomics data. It models gene expression at each spatial location as a weighted combination of multiple reference datasets, where both cell type proportions and reference weights can vary across the tissue.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.3
+LinkingTo: Rcpp, RcppArmadillo
+Imports: Rcpp
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
