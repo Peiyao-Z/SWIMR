@@ -8,7 +8,7 @@ You can install the development version of SWIMR like so:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("peiyao-Z/SWIMR", build_vignettes = FALSE)
+devtools::install_github("Peiyao-Z/SWIMR", build_vignettes = FALSE)
 ```
 
 ## Quick start
