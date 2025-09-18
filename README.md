@@ -13,7 +13,7 @@ devtools::install_github("Peiyao-Z/SWIMR", build_vignettes = FALSE)
 
 ## Quick start
 
-See [Tutorial](https://github.com/Peiyao-Z/SWIMR/tree/main/vignettes/SWIMR_Human_developing_heart.html) for detailed documentation and examples.
+See [Tutorial](https://peiyao-z.github.io/SWIMR/) for detailed documentation and examples.
 
 ## Citations
 
