@@ -19,9 +19,7 @@ See [Tutorial](https://peiyao-z.github.io/SWIMR/) for detailed documentation and
 
 For more details on the methods, please see our paper. If you find this work useful for your research, please consider citing:
 
-Ma, Y., Zhou, X. Spatially informed cell-type deconvolution for spatial transcriptomics. Nat Biotechnol 40, 1349–1359 (2022). <https://doi.org/10.1038/s41587-022-01273-7>
-
-SWIMR xxx
+Zhao, P., Ma, Y.#, Zhou, X.# Enhancing cell type deconvolution in spatial transcriptomics through incorporating multiple reference panels (2025)
 
 ## License
 
